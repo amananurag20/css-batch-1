@@ -1,0 +1,45 @@
+.container{
+    width: 700px;
+
+    height: 400px;
+
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items:flex-end ;
+}
+
+
+.inner-div{
+    width: 200px;
+    height: 40px;
+}
+
+#red{
+    background-color: red;
+}
+
+#orange{
+    background-color: orange;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#indigo{
+    background-color:indigo ;
+}
